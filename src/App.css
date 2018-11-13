@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+#root {
+    text-align: center;
+}
+
+.ant-form {
+	margin-top: 35px;
+	margin-bottom: 25px;
+}
